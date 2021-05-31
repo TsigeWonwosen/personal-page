@@ -104,6 +104,11 @@ span {
   background-color: rgb(247, 247, 247);
   border-radius: 10px;
 }
+.technology li {
+  list-style: none;
+  color: rgb(136, 140, 143);
+  padding: 0.3rem;
+}
 
 .contact {
   flex-direction: column;
@@ -113,4 +118,14 @@ span {
   padding: 4rem;
   background-color: rgb(247, 247, 247);
   border-radius: 10px;
+}
+
+.contact li {
+  list-style: none;
+  color: rgb(136, 140, 143);
+  padding: 0.3rem;
+}
+
+.contact li a {
+  text-decoration: none;
 }
